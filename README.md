@@ -2,6 +2,8 @@
 
 Trying out the new gpt-3.5 turbo api by getting the model to answers a set of question based on a data from .csv file.
 
+Read the Open AI Documentaion Guide for the Chat Completion API [here](https://platform.openai.com/docs/guides/chat/faq).
+
 `dummy-sheet.csv` contains a list of data regarding a fictional college along with its student details.
 
 ## CSV File Credits

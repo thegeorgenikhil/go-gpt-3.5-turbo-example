@@ -69,7 +69,7 @@ func main() {
 			{Role: "system", Content: prompt1},
 			{Role: "system", Content: prompt2},
 			{Role: "user", Content: "What is the following data set about?"},
-			{Role: "user", Content: "What is most popular major/majors?"},
+			{Role: "user", Content: "What is most popular major or group of majors?"},
 			{Role: "user",Content: "Where are most of the students from?"},
 			{Role: "user", Content: "Which extra-curricular activity/activities is most popular? Which among them has the highest female participation?"},
 			// add in as many questions as you want
