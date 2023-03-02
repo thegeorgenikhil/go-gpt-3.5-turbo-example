@@ -12,16 +12,6 @@ import (
 )
 
 const (
-	preamble1 = `The following is the data from a csv file from a school which contains info about their name,gender,class level,home state, major and extracurricular activities. Give me a detailed analysis of the data which contains the following information:
-	1. The number of students in each class level
-	2. Most popular major
-	3. Which extracurricular activity has the highest female representation
-	4. Which state has the highest number of students
-
-	The results need to be highly accurate and detailed. The data is given below:
-
-	`
-
 	preamble = `Make me understand what the given table is about and talk me through the data points in the table.The results need to be highly accurate and comprehensive. Also talk about the following points:
 	1. The number of students in each class level
 	2. Most popular major
