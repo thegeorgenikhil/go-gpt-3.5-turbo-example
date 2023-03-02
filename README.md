@@ -10,6 +10,10 @@ The data used in this project is from [this Example Spreadsheet](https://docs.go
 
 ## Usage
 
+You need to have a [OpenAI API Key](https://beta.openai.com/account/api-keys) to run this project.
+
+Change the `.env.example` file to `.env` and add your API key.
+
 ### Install dependencies
 
 ```bash
@@ -21,4 +25,3 @@ go mod tidy
 ```bash
 go run main.go
 ```
-
